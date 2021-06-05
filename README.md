@@ -11,7 +11,7 @@
 
 - <details><summary>📫 How to reach me</summary>
   <p>     
-  ```python
+  ```
   print("Email: medeeboss@gmail.com")
   ```
   </p>
