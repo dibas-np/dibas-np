@@ -11,9 +11,8 @@
 
 - <details><summary>📫 How to reach me</summary>
   <p>     
-  ```
- Email: medeeboss@gmail.com"
-  ```
+
+  Email: medeeboss@gmail.com"
   </p>
   </details>	
 
