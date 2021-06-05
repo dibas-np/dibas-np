@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibas!</h1>
-<h3 align="center">A beginner full stack developer (more into backend), and very interested in Ethical Hacking.</h3>
+<h3 align="center">A beginner full stack developer (more into backend), and passionate about Ethical Hacking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibas-np&label=Profile%20views&color=0e75b6&style=flat" alt="dibas-np" /> </p>
 
