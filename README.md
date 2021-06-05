@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories)
 
-- <details><summary>📫 How to reach me EMAIL</summary>
+- <details><summary>📫 How to reach me</summary>
   <p>
-	  **medeeboss@gmail.com**
+	  Email: medeeboss@gmail.com
   </p>
   </details>	
 
