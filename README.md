@@ -10,8 +10,10 @@
 - 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories)
 
 - <details><summary>📫 How to reach me</summary>
-  <p>
+  <p>     
+	  ```python
 	  Email: medeeboss@gmail.com
+	  ```
   </p>
   </details>	
 
