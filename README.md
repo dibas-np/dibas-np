@@ -10,14 +10,14 @@
 - 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories)
 
 - <details><summary>📫 How to reach me EMAIL</summary>
-<p>
+  <p>
 
-```python
-print("medeeboss@gmail.com")
-```
+  ```python
+  print("medeeboss@gmail.com")
+  ```
 
-</p>
-</details>	
+  </p>
+  </details>	
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
