@@ -9,9 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories)
 
-<details><summary>📫 How to reach me EMAIL</summary>
+- <details><summary>📫 How to reach me EMAIL</summary>
 <p>
-
 
 ```python
 print("medeeboss@gmail.com")
@@ -19,7 +18,6 @@ print("medeeboss@gmail.com")
 
 </p>
 </details>	
-- **medeeboss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
