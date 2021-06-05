@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibas-np&show_icons=true&locale=en&layout=compact" alt="dibas-np" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibas-np&show_icons=true&locale=en" alt="dibas-np" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibas-np&" alt="dibas-np" /></p>
