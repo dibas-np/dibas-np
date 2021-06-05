@@ -11,11 +11,7 @@
 
 - <details><summary>📫 How to reach me EMAIL</summary>
   <p>
-
-  ```python
-  print("medeeboss@gmail.com")
-  ```
-
+	  **medeeboss@gmail.com**
   </p>
   </details>	
 
