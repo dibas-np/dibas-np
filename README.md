@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories)
 
-- 📫 How to reach me **medeeboss@gmail.com**
+- 📫 How to reach me [Mail](**medeeboss@gmail.com**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
