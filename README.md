@@ -12,7 +12,7 @@
 - <details><summary>📫 How to reach me</summary>
   <p>     
   ```
-  print("Email: medeeboss@gmail.com")
+ Email: medeeboss@gmail.com"
   ```
   </p>
   </details>	
