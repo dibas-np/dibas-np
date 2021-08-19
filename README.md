@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibas-np&label=Profile%20views&color=0e75b6&style=flat" alt="dibas-np" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibas-np" alt="dibas-np" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://dibas-github-profile-trophy.vercel.app/?username=dibas-np" alt="dibas-np" /></a> </p>
+
 
 - 🌱 I’m currently learning **lots of things.**
 
