@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://dibas-github-profile-trophy.vercel.app/?username=dibas-np" alt="dibas-np" /></a> </p>
 
-
 - 🌱 I’m currently learning **lots of things.**
 
 - 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories)
