@@ -12,7 +12,7 @@
 - <details><summary>📫 How to reach me</summary>
   <p>     
 
-  Email: medeeboss@gmail.com
+  Email: dibas.sigdel@gmail.com
   </p>
   </details>	
 
