@@ -48,7 +48,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
+  	    <li><b>OS:</b> Windows 11</li>
 	    <li><b>Laptop: </b> Lenovo Legion 5</li>
   	    <li><b>Browser: </b> Microsoft Edge</li>
 	    <li><b>Code Editor:</b> VSCode</li>
