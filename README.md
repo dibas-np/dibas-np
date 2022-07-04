@@ -39,8 +39,8 @@
   ![](https://github.com/dibas-np/stats/blob/4e0b35833ab6f82731e556e0e490b95be38bf32e/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/dibas-np/stats/blob/4e0b35833ab6f82731e556e0e490b95be38bf32e/generated/languages.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/dibas-np/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/dibas-np/stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/dibas-np/stats/blob/4e0b35833ab6f82731e556e0e490b95be38bf32e/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/dibas-np/stats/blob/4e0b35833ab6f82731e556e0e490b95be38bf32e/generated/overview.svg#gh-light-mode-only)
 
 </details>
 
