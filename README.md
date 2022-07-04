@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats-dibas.vercel.app/api?username=dibas-np&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-dibas.vercel.app/api/top-langs/?username=dibas-np&&count_private=true&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
   
-	<img src="https://github.com/dibas-np/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/dibas-np/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/dibas-np/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/dibas-np/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/dibas-np/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
