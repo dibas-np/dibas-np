@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **lots of things.**
 
-- 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories)
+- 👨‍💻 All of my projects are available at [dibas-repo](https://github.com/dibas-np?tab=repositories) . Sorry, almost all of my projects are private can't show source code.
 
 - <details><summary>📫 How to reach me</summary>
   <p>     
